@@ -2,7 +2,7 @@
 
 ## Running
 
-This project requires pytohn and request package.
+This project requires python and request package.
 
 First, install pipenv. then:
 
